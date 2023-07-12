@@ -1,38 +1,30 @@
-# Project Name
-> Outline a brief description of your project.
+# Lending Club Case Study
+Operates a "peer-to-peer" lending website for personal loans. The company assesses applicants' risk and lets investors lend directly to individuals or spread their money across a number of loans.
 
+They want to assess the risk by analysing a dataset with previous loan related data
+
+The purpose is to find out some variables which might help them to predict the occurrence of default in order to lower their risks and increase profits
 
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
-
-<!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+Operates a "peer-to-peer" lending website for personal loans. The company assesses applicants' risk and lets investors lend directly to individuals or spread their money across a number of loans.
 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+They want to assess the risk by analysing a dataset with previous loan related data
+
+The purpose is to find out some variables which might help them to predict the occurrence of default in order to lower their risks and increase profits
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+After analysing all the related features available in the dataset, we have come to an end, deducing the main driving features for the Lending Club Loan Default analysis:
 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
+The best driving features for the Loan default analysis are: term, grade, purpose, pub_rec, int_rate, installment, annual_inc, funded_amnt
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+Python
 
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
 Give credit here.
